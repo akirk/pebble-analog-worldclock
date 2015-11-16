@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pebble@kirk.at",
+    "longName": "Analog with Worldtime",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Analog with Worldtime",
+    "uuid": "730212de-72b0-4c3e-a1b3-3c7b449459b2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
